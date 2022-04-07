@@ -33,7 +33,8 @@
   ![](https://img.shields.io/badge/code-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
  
 
- 
+ ### Connect:
+ sandescrst@gmail.com
 
 
 
