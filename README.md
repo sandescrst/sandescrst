@@ -26,11 +26,11 @@
   ![](https://img.shields.io/badge/tools-Scikit-learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/tools-Matplotlib-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/tools-SAS-informational?style=flat&logo=sas&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/code-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
   
   ### Others:
-   ![](https://img.shields.io/badge/code-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/code-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+   ![](https://img.shields.io/badge/tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
  
 
  ### Connect:
