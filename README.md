@@ -30,7 +30,7 @@
   
   ### Others:
    ![](https://img.shields.io/badge/tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+   ![](https://img.shields.io/badge/tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
  
 
 ### Portfolio:
