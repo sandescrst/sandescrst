@@ -37,7 +37,7 @@
 https://www.sandescrst.me/
 
 ### Connect:
- sandescrst@gmail.com
+ crstsandes@gmail.com
 
 
 
