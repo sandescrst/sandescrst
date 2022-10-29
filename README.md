@@ -14,6 +14,7 @@
 ### Backend Languages:
  ![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/code-CSharp-informational?style=flat&logo=Csharp&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
  
 ### Frontend Languages:
  ![](https://img.shields.io/badge/code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
