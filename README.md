@@ -1,5 +1,5 @@
 ### Hi there, I am Sandesh, currently seeking for full-time job in the field of Web development and Data Science. 👋
-![Sandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandescrst&count_private=true&&hide=contribs,prs&show_icons=true&theme=aqua)
+
 
 
 ### Languages and Frameworks:
