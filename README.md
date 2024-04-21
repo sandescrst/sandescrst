@@ -1,5 +1,5 @@
 ## Hi there👋,
-### $ *git rm -r* * #*works like a charm*! ;)
+### $ *git rm -r* * 
 
 ### Languages and Frameworks:
 ### Frameworks:
