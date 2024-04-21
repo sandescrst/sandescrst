@@ -1,6 +1,5 @@
-### Hi there, I am Sandesh, currently seeking for full-time job in the field of Web development and Data Science. 👋
-
-
+### Hi there👋,
+#### __git rm -r *__
 
 ### Languages and Frameworks:
 ### Frameworks:
